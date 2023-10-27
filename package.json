@@ -1,0 +1,23 @@
+{
+  "name": "budget-app-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lombarudi24/Budget-App-Back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lombarudi24/Budget-App-Back-end/issues"
+  },
+  "homepage": "https://github.com/Lombarudi24/Budget-App-Back-end#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
